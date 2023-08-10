@@ -25,8 +25,7 @@ Este projeto é um exemplo de um aplicativo React que demonstra como criar uma s
 2. Clone este repositório para o seu ambiente local:
 
    ```bash
-   git clone <URL_DO_REPOSITÓRIO>
-
+   git clone <https://github.com/philipeagra/Comentarios-com-react.git>
 
 Navegue até o diretório do projeto:
 
