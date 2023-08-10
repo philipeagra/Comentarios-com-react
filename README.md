@@ -25,38 +25,9 @@ Este projeto é um exemplo de um aplicativo React que demonstra como criar uma s
 2. Clone este repositório para o seu ambiente local:
 
    ```bash
-   git clone <https://github.com/philipeagra/Comentarios-com-react.git>
+   git clone <URL_DO_REPOSITÓRIO>
 
 3. Navegue até o diretório do projeto:
 
   ```bash
-  cd nome-do-diretório
-
-4. Instale as dependências:
-
-```bash
-npm install
-
-5. Inicie o aplicativo:
-  ```bash
-  npm run dev
-
-
-Abra o seu navegador e visite http://localhost:3000 para ver o aplicativo em ação.
-
-Preencha o formulário com um nome de autor e um comentário, e clique em "Enviar comentário" para adicionar um novo comentário à seção.
-
-Tecnologias Utilizadas
-React: Biblioteca JavaScript de código aberto para construir interfaces de usuário.
-useState: Hook do React para gerenciar o estado dos componentes.
-Date: Objeto JavaScript para lidar com datas e horários.
-Contribuição
-Contribuições são bem-vindas! Se você encontrar problemas ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-Licença
-Este projeto está licenciado sob a Licença MIT.
-
-javascript
-Copy code
-
-Certifique-se de substituir `<URL_DO_REPOSITÓRIO>` pe
+   cd nome-do-diretório
