@@ -30,4 +30,4 @@ Este projeto é um exemplo de um aplicativo React que demonstra como criar uma s
 3. Navegue até o diretório do projeto:
 
   ```bash
-   cd nome-do-diretório
+    cd nome-do-diretório
