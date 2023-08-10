@@ -14,17 +14,20 @@ Um aplicativo React simples que permite aos usuários deixar comentários e exib
 - [Licença](#licença)
 
   
-Visão Geral
+## Visão Geral
+
 Este projeto é um exemplo de um aplicativo React que demonstra como criar uma seção de comentários interativa. Os usuários podem preencher um formulário com seu nome e um comentário, que serão exibidos na seção de comentários abaixo do formulário. Cada comentário exibe o nome do autor, a data e hora de criação, bem como o conteúdo do comentário.
 
-Instruções de Uso
-Certifique-se de ter o Node.js instalado em sua máquina.
+## Instruções de Uso
 
-Clone este repositório para o seu ambiente local:
+1. Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina.
 
-bash
-Copy code
-git clone <URL_DO_REPOSITÓRIO>
+2. Clone este repositório para o seu ambiente local:
+
+   ```bash
+   git clone <URL_DO_REPOSITÓRIO>
+
+
 Navegue até o diretório do projeto:
 
 bash
@@ -53,3 +56,8 @@ Contribuições são bem-vindas! Se você encontrar problemas ou tiver sugestõe
 
 Licença
 Este projeto está licenciado sob a Licença MIT.
+
+javascript
+Copy code
+
+Certifique-se de substituir `<URL_DO_REPOSITÓRIO>` pe
