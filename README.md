@@ -27,21 +27,21 @@ Este projeto é um exemplo de um aplicativo React que demonstra como criar uma s
    ```bash
    git clone <https://github.com/philipeagra/Comentarios-com-react.git>
 
-Navegue até o diretório do projeto:
+3. Navegue até o diretório do projeto:
 
-bash
-Copy code
-cd nome-do-diretório
-Instale as dependências:
+  ```bash
+  cd nome-do-diretório
 
-bash
-Copy code
+4. Instale as dependências:
+
+```bash
 npm install
-Inicie o aplicativo:
 
-bash
-Copy code
-npm start
+5. Inicie o aplicativo:
+  ```bash
+  npm run dev
+
+
 Abra o seu navegador e visite http://localhost:3000 para ver o aplicativo em ação.
 
 Preencha o formulário com um nome de autor e um comentário, e clique em "Enviar comentário" para adicionar um novo comentário à seção.
