@@ -29,5 +29,41 @@ Este projeto é um exemplo de um aplicativo React que demonstra como criar uma s
 
 3. Navegue até o diretório do projeto:
 
- ```bash
-  cd nome-do-diretório
+   ```bash
+    cd nome-do-diretório
+   
+4. Instale as dependências:
+
+   ```bash
+   npm install
+   
+5. Inicie o aplicativo:
+
+   ```bash
+   npm start
+   
+6. Abra o seu navegador e visite http://localhost:3000 para ver o aplicativo em ação.
+
+7. Preencha o formulário com um nome de autor e um comentário, e clique em "Enviar comentário" para adicionar um novo comentário à seção.
+
+
+## Tecnologias Utilizadas
+
+- React: Biblioteca JavaScript de código aberto para construir interfaces de usuário.
+- useState: Hook do React para gerenciar o estado dos componentes.
+- Date: Objeto JavaScript para lidar com datas e horários.
+
+## Contribuição
+
+Contribuições são bem-vindas! Se você encontrar problemas ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## Licença
+Este projeto está licenciado sob a Licença MIT.
+
+
+
+Lembre-se de substituir `<URL_DO_REPOSITÓRIO>` pelo URL real do repositório do seu projeto e `nome-do-diretório` pelo nome do diretório onde o projeto está localizado. Espero que esteja conforme suas expectativas. Se precisar de mais ajustes ou informações adicionais, estou à disposição!
+
+
+
+   
