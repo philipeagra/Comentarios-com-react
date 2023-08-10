@@ -1,12 +1,19 @@
 # Seção de Comentários - Aplicativo React
 Um aplicativo React simples que permite aos usuários deixar comentários e exibe os comentários em uma seção logo abaixo do formulário.
+
+
 ![Alt text](image.png)
-Índice
-Visão Geral
-Instruções de Uso
-Tecnologias Utilizadas
-Contribuição
-Licença
+
+
+## Índice
+
+- [Visão Geral](#visão-geral)
+- [Instruções de Uso](#instruções-de-uso)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Contribuição](#contribuição)
+- [Licença](#licença)
+
+  
 Visão Geral
 Este projeto é um exemplo de um aplicativo React que demonstra como criar uma seção de comentários interativa. Os usuários podem preencher um formulário com seu nome e um comentário, que serão exibidos na seção de comentários abaixo do formulário. Cada comentário exibe o nome do autor, a data e hora de criação, bem como o conteúdo do comentário.
 
