@@ -1,4 +1,4 @@
-Seção de Comentários - Aplicativo React
+# Seção de Comentários - Aplicativo React
 Um aplicativo React simples que permite aos usuários deixar comentários e exibe os comentários em uma seção logo abaixo do formulário.
 ![Alt text](image.png)
 Índice
